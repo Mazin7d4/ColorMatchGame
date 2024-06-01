@@ -14,7 +14,7 @@ You can play the game [here](https://inspiring-horse-569b03.netlify.app/).
 
 ## Screenshots
 
-[Game Screenshot](mobile.jpg)
+<img src="mobile.jpg" width="100" height="100">
 
 ![Game Screenshot](Screenshot.png)
 
